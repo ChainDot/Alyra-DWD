@@ -52,9 +52,9 @@
   
 ### 7. Expliquez en environ 100 mots pourquoi vous souhaitez ou ne souhaitez pas devenir développeur.
  
-  Je souhaite devenir développeur car je pense qu'avec la troisième révolution industrielle l'humanité va se tourner de plus en plus vers les ordinateurs et les machines pour des tâches répétitives et difficiles, comme par exemple la voiture autonome pour la vie de tous les jours ou les chaînes de productions dans le domaine professionnelle. 
+  Je souhaite devenir développeur, car je pense qu'avec la troisième révolution industrielle l'humanité va se tourner de plus en plus vers les ordinateurs et les machines pour des tâches répétitives et difficiles, comme par exemple la voiture autonome pour la vie de tous les jours ou les chaînes de productions dans le domaine professionnel. 
   
-  Les développeurs seront indispensable dans le monde de demain pour la programmation de toutes ces tâches.
+  Les développeurs seront indispensables dans le monde de demain pour la programmation de toutes ces tâches.
   
 ### 8. Pensez-vous que les ordinateurs deviendront conscient un jour et pourront entrer en compétition avec les humains ? Argumentez votre position.
   
