@@ -3,6 +3,7 @@
 ### 1. Prenez une activité que vous effectuez souvent (manger, regarder la télé, etc) et faites une liste des façons dont les ordinateurs sont directement ou indirectement impliqués dans cette activité.
 
 * Cyclisme sur smart home trainer 
+
   * Le home trainer permet de déterminer la puissance developpé par le cycliste ainsi que la cadence de pédalage.
   * Le home trainer est connecté à un ordinateur par bluetooth qui communique avec un jeu de simulation de cyclisme en ligne.
   * Il permet ainsi d'adapter la résistance de pédalage par rapport à l'inclinaison de la pente dans le jeu.
@@ -10,7 +11,8 @@
   
 ### 2. Choisissez un métier que vous connaissez ou dont vous avez un intérêt et faire la liste des activités de ce métier qui impliquent des ordinateurs. 
 
-* Photographe 
+* Photographe
+
   * Utilisation d'intelligence artificielle  pour la reconnaissances des sujets, des yeux, sourires ou animaux pour l'autofocus de l'appareil photos.
   * Prise de vue  sur trepied avec déclenchements à distance de votre appareil photo par l'intermédiaire d'un ordinateur, smartphone, tablette ou telecommande sans fil sur trépied pour la photographie de paysages, d'architecture.
   * Prise de vue en Studio avec éclairage studio ou flash cobra avec synchonisation sans fil avec un ordinateur qui  enregistre et retouche en temps réel sur logiciel de post-production.
