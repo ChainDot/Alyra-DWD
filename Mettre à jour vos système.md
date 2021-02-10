@@ -36,7 +36,7 @@ L'output devrait être ``` nvm ``` si votre installation est réussite.
 La première version installée devient celle par défaut.
 
 
-## Installation de Visual Studio et d'extensions (Code runner, Prettier)
+## Installation de Visual Studio et d'extensions Code runner
 
 * Par le terminal télecharger et installer Visual studio
 
